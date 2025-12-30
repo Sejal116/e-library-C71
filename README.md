@@ -8,8 +8,8 @@ This project is part of the **C71** curriculum and demonstrates basic database i
 ## 📱 App Preview
 
 | Home Screen | Scan Code |
-|------------|--------------|
-| ![](./assets/home.png) | ![](./screenshots/scan.png) | 
+|------------|------------|
+| ![](./assets/home.png) | ![](./assets/scan.png) |
 
 
 ---
@@ -42,9 +42,7 @@ git clone https://github.com/Sejal116/e-library-C71.git
 cd e-library-C71
 
 3. **Install dependencies**
-npm install
-# or
-yarn install
+npm install or yarn install
 
 4. **Start the Expo server**
 npx expo start
